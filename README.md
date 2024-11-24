@@ -49,8 +49,8 @@ Features
 7. Testimonial Section: Displays client testimonials.
 8. Contact Section: Includes a contact form, a subscription form for the newsletter, and frequently asked questions.
 
-   
-   How to Use
+
+How to Use
    
 1. Clone or download the repository to your local machine.
 2. Open b_index.html in your web browser to view the portfolio.
