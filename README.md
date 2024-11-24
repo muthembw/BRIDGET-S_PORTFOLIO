@@ -1,5 +1,5 @@
 # BRIDGET-S_PORTFOLIO
-[bridget masila](https://muthembw.github.io/BRIDGET-S_PORTFOLIO-Group15/index.html)
+[bridget masila](https://muthembw.github.io/BRIDGET-S_PORTFOLIO-Group15/)
 
 ## A WEBSITE PORTFOLIO
 
