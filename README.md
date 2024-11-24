@@ -13,7 +13,8 @@ Table of Contents
 7. Contact
 8. License
 
-Description
+Description: 
+
 The portfolio website serves as a personal introduction to my work as a web and software developer. It provides potential clients or employers with an overview of my skills, projects, and interests. The website features sections like Home, About, Skills, Interests, Projects, Testimonial, and Contact. The site features smooth scrolling navigation, a contact form, a subscription feature, and a scroll-to-top button to enhance user experience.
 The website is fully responsive and works well across different devices and screen sizes, ensuring a seamless user experience on both desktop and mobile devices.
 
