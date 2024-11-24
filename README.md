@@ -1,6 +1,6 @@
 # BRIDGET-S_PORTFOLIO
 A WEBSITE PORTFOLIO
-# BRIDGET-S_PORTFOLIO
+
 This is the source code for Bridget Masila's Portfolio, a professional portfolio website that showcases my web development and software engineering skills. The site is designed to highlight my background, skills, interests, projects, and testimonials from clients.
 
 Table of Contents
