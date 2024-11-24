@@ -7,12 +7,16 @@ Table of Contents
 1. Description
 2. Technologies Used
 3. File Structure
-4. Features
+4. Key Features
 5. How to Use
-6. Contact
+6. Collaborators
+7. Contact
+8. License
 
 Description
 The portfolio website serves as a personal introduction to my work as a web and software developer. It provides potential clients or employers with an overview of my skills, projects, and interests. The website features sections like Home, About, Skills, Interests, Projects, Testimonial, and Contact. The site features smooth scrolling navigation, a contact form, a subscription feature, and a scroll-to-top button to enhance user experience.
+The website is fully responsive and works well across different devices and screen sizes, ensuring a seamless user experience on both desktop and mobile devices.
+
 
 Technologies Used
 1. HTML: The backbone of the website, used for structuring the content.
@@ -23,9 +27,6 @@ Technologies Used
 6. LinkedIn, Twitter, GitHub, Instagram icons for social media links.
 
 File Structure
-bash
-Copy code
-portfolio/
 
 1. b_index.html                - Main HTML file
 2. b_styles.css                - Stylesheet for custom page design
@@ -39,7 +40,7 @@ portfolio/
 10. Descargar logotipo de instagram png, icono de instagram transparente.jpeg  - Instagram icon
 11. bridget_cv.docx      - Downloadable CV file
 
-Features
+Key Features
 1. Navigation Bar: Provides links to various sections such as Home, About, Skills, Interests, Projects, Testimonial, and Contact.
 2. Home Section: An introductory section with a welcome message, a brief description of my skills, and a photo.
 3. About Section: Contains a personal introduction and professional background.
@@ -48,6 +49,7 @@ Features
 6. Projects Section: Showcases a selection of projects with external links to details.
 7. Testimonial Section: Displays client testimonials.
 8. Contact Section: Includes a contact form, a subscription form for the newsletter, and frequently asked questions.
+   
 
 
 How to Use
@@ -56,7 +58,13 @@ How to Use
 2. Open b_index.html in your web browser to view the portfolio.
 3. To update the CV or any content, replace bridget_cv.docx with the updated file and modify the corresponding sections in the HTML.
 
-
+Collaborators
+1. Fork the repository.
+2. Create a new branch (git checkout -b feature-name).
+3. Make changes and commit them (git commit -am 'Add feature').
+4. Push to the branch (git push origin feature-name).
+5. Create a pull request.
+   
 Contact
 For inquiries or feedback, feel free to reach out to me:
 
