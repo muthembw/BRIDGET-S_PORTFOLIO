@@ -49,13 +49,12 @@ Features
 7. Testimonial Section: Displays client testimonials.
 8. Contact Section: Includes a contact form, a subscription form for the newsletter, and frequently asked questions.
 
-
+   
    How to Use
    
 1. Clone or download the repository to your local machine.
 2. Open b_index.html in your web browser to view the portfolio.
 3. To update the CV or any content, replace bridget_cv.docx with the updated file and modify the corresponding sections in the HTML.
-
 
 
 Contact
