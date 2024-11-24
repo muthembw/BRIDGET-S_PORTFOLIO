@@ -1,7 +1,9 @@
 # BRIDGET-S_PORTFOLIO
-A WEBSITE PORTFOLIO
+[bridget masila](https://muthembw.github.io/BRIDGET-S_PORTFOLIO-Group15/index.html)
 
-This is the source code for Bridget Masila's Portfolio, a professional portfolio website that showcases my web development and software engineering skills. The site is designed to highlight my background, skills, interests, projects, and testimonials from clients.
+## A WEBSITE PORTFOLIO
+
+## This is the source code for Bridget Masila's Portfolio, a professional portfolio website that showcases my web development and software engineering skills. The site is designed to highlight my background, skills, interests, projects, and testimonials from clients.
 
 Table of Contents
 1. Description
