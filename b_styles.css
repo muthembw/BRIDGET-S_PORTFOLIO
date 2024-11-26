@@ -8,6 +8,30 @@ body {
     background-color: #C9ADA7;
     padding: 0;
 }
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+        margin: 10px;
+    }
+}
+@media (max-width: 480px) {
+    body {
+        font-size: 12px;
+        margin: 5px;
+    }
+}
+@media (min-width: 768px) {
+    body {
+        font-size: 14px; 
+    }
+}
+
+@media (min-width: 1024px) {
+    body {
+        font-size: 16px;
+    }
+}
 body, h1, p {
     margin: 0;
     padding: 0;
