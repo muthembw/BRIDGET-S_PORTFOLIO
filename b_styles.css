@@ -9,27 +9,31 @@ body {
     padding: 0;
 }
 
+
+/* Styles for tablets */
 @media (max-width: 768px) {
     body {
-        font-size: 14px;
+        font-size:  0.875rem;;
         margin: 10px;
     }
 }
+
+/* Styles for mobile phones */
 @media (max-width: 480px) {
     body {
-        font-size: 12px;
+        font-size: 0.75rem;
         margin: 5px;
     }
 }
 @media (min-width: 768px) {
     body {
-        font-size: 14px; 
+        font-size: 0.875rem; /* For tablets */
     }
 }
 
 @media (min-width: 1024px) {
     body {
-        font-size: 16px;
+        font-size: 0.75rem; /* For desktops */
     }
 }
 body, h1, p {
@@ -45,7 +49,10 @@ header {
     width: 100%;
     z-index: 1000;
 }
-
+img {
+    max-width: 100%;
+    height: auto;
+}
 .navbar ul {
     list-style: none;
     display: flex;
@@ -557,7 +564,9 @@ form button:hover {
     transform: translateX(-50%);
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   }
-  
+  .education-note, .programming-languages {
+    flex: 1 1 45%; /* Take 45% of container width, wrap if needed */
+  }
   .programming-languages {
     width: 50%;
     padding: 15px;
